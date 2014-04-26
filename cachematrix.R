@@ -1,5 +1,5 @@
 ## R Programming Assignment2 
-## There is two functions that make insersion of matrix by using cache
+## There is two functions that makes the invesersion of matrix by using cache
 ##
 ## How to run this program
 ## > x <- matrix(rnorm(25),5,5)
